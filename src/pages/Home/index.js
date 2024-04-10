@@ -51,7 +51,7 @@ const styles = StyleSheet.create ({
         marginTop: '25%',
         marginLeft: '10%',
         marginBottom: '50%',
-        color: '#FFF',
+        // color: '#FFF',
         // backgroundColor: 'red'
     },
     container: {
